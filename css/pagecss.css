@@ -1,0 +1,13 @@
+/* the page style and fonts */
+
+body {
+    margin: auto;
+}
+
+.head h1 {
+    margin: 0;
+    background-color: aqua;
+    height: 80px;
+    text-align: center;
+    padding-top: 20px;
+}
